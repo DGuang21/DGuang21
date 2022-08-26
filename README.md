@@ -1,3 +1,6 @@
+[![ProfileViews](https://komarev.com/ghpvc/?username=DGuang21&&style=flat-square)](https://komarev.com/ghpvc/?username=DGuang21&&style=flat-square)
+[![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)
+
 ### Hi 👋 Here is a backend programmer
 
 - 🤔 Basically using Go and Rust
