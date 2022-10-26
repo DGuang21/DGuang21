@@ -3,7 +3,7 @@
 
 ### Hi 👋 Here is a backend programmer
 
-- 🤔 Basically using Go and Rust
+- 🤔 Basically using Go / PHP / Python
 - 🔭 I’m currently working on ShenZhen
 - 🌱 I'm currently learning Rust
 
