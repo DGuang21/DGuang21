@@ -3,8 +3,9 @@
 
 ### Hi 👋 Here is a backend programmer
 
-- 🤔 Basically using Go / PHP / Python
+- 🤔 Basically using Go / PHP / Python / Java / TypeScript
 - 🔭 I’m currently working on ShenZhen
-- 🌱 I'm currently learning Rust
+- 🌱 ~~I'm currently learning Rust~~
+- 🌱 I'm currently development of Flutter
 
 [![DGuang21's github stats](https://github-readme-stats.vercel.app/api?username=DGuang21&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
