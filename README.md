@@ -6,6 +6,6 @@
 - 🤔 Basically using Go / PHP / Python / Java / TypeScript
 - 🔭 I’m currently working on ShenZhen
 - 🌱 ~~I'm currently learning Rust~~
-- 🌱 I'm currently development of Flutter
+- 🌱 I'm Currently developing with Flutter / Kotlin
 
 [![DGuang21's github stats](https://github-readme-stats.vercel.app/api?username=DGuang21&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
